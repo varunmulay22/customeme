@@ -1,16 +1,16 @@
 <h1>CustoMeme</h1>
   
-This is a fun project which uses :
+<h3>This is a fun project which uses :</h3>
 
----React JS
+---React JS<br>
 ---BootStrap
 
-To run this project :
+<h3>To run this project :</h3>
 
----Clone this project and traverse to the project folder/ directory
+---Clone this project and traverse to the project folder/ directory<br>
 ---Run :- npm start
 
-Using the CustoMeme app :
+<h3>Using the CustoMeme app :</h3>
 
----Use the app to create your own custom memes by editing any of the templates provided.
+---Use the app to create your own custom memes by editing any of the templates provided.<br>
 ---Download the memes created in .png format.
