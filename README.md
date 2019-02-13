@@ -17,6 +17,8 @@
 
 <h2>Screenshots</h2>
 
+![](customeme.png)
+
 <h2>Video Walkthrough</h2>
 
 ![](customeme.gif)
