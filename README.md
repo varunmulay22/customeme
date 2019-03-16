@@ -15,10 +15,6 @@
 ---Use the app to create your own custom memes by editing any of the templates provided.<br>
 ---Download the memes created in .png format.
 
-<h2>Screenshots</h2>
-
-![](customeme.png)
-
 <h2>Video Walkthrough</h2>
 
 ![](customeme.gif)
